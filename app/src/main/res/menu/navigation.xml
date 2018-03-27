@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/male"
+        android:icon="@drawable/ic_male_black_24dp"
+        android:title="@string/title_male"/>
+
+    <item
+        android:id="@+id/female"
+        android:icon="@drawable/ic_female_black_24dp"
+        android:title="@string/title_female"/>
+
+    <item
+        android:id="@+id/card_lib"
+        android:icon="@drawable/ic_card_lib_black_24dp"
+        android:title="@string/card_lib"/>
+
+</menu>
